@@ -70,4 +70,10 @@ export default defineConfig([
     },
   },
 ])
+
+Install Dependecies:
+1. npm i or npm i --f
+
+Run:
+1. npm run dev
 ```
